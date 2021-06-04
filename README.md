@@ -1,8 +1,16 @@
 ### Hi there 👋
 
+  Wellcome!
+  
+  See my trajetory on Data Science in:
+  https://github.com/gortaina/100-Days-Of-ML-Code/blob/master/README.md
+
 <!--
+
+
+
 **gortaina/gortaina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 
 Here are some ideas to get you started:
 
@@ -14,4 +22,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: arquitetura.joel@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I live by the code!
-
+-->
