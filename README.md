@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">
-    <img alt="100DaysOfCode" src="https://github.com/gortaina/100-Days-Of-ML-Code/blob/master/img/1_nYMkr4TCfomN4tw3SU8o_w.jpeg"  width="50%" heigth="50%"/>
+    <img alt="300DaysOfCode" src="https://github.com/gortaina/100-Days-Of-ML-Code/blob/master/img/1_nYMkr4TCfomN4tw3SU8o_w.jpeg"  width="50%" heigth="50%"/>
     <br>
-    100 Days Of Machine Learning Code
+    300 Days Of Machine Learning Code
 </h1>
 <h4 align="left">
 100 Days of Machine Learning Coding as proposed by Siraj Raval, cloned from https://github.com/Avik-Jain/100-Days-Of-ML-Code    
